@@ -132,8 +132,8 @@ Universidad Carlos III de Madrid, Spain — *Expected May 2026* | GPA: 8/10
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfredo-fel&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredo-fel&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfredofelices&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredofelices&hide_border=true" height="165" />
 </p>
 
 <p align="center">
