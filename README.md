@@ -81,7 +81,7 @@
 
 ### 💼 Professional & Leadership Experience
 
-**Data Scientist | Iberdrola S.A.** *(Madrid & Bilbao, Spain)*
+**Data Scientist | Iberdrola S.A.** *(Madrid & Bilbao, Spain — Feb. 2026 – Jun. 2026)*
 - Developed **PRADA 2.0**, a cascade optimization model to maximize efficiency in the deployment of **11.6M smart meters** across Iberdrola's Spanish network.
 - Integrated the model into Iberdrola's **Azure ML**-based data architecture and other cloud-based big data tools.
 - Supported the launch of Iberdrola's **AI Training Academy** and its inaugural **Machine Learning Lab** in Bilbao.
@@ -89,7 +89,7 @@
 **Hospitality Event Assistant | Stedmans Hospitality** *(Sydney, Australia — Aug. 2025 – Dec. 2025)*
 - Supported event operations while completing an academic exchange semester in Australia.
 
-**Founder and Head of Induction | School Club** *(Madrid, Spain — Sep. 2021 – May 2022)*
+**Founder and Head of Induction | School Club** *(Madrid, Spain — Sep. 2021 – May. 2022)*
 - Founded and led the induction program for new students, fostering a sense of belonging and supporting a successful transition into the school community.
 
 ---
