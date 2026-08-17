@@ -113,7 +113,7 @@ Universidad Carlos III de Madrid, Spain — *Expected May 2026* | GPA: 8/10
 - **RPTU Kaiserslautern-Landau**, Germany — Advanced Computer Engineering coursework *(1st semester 2024/2025)*
 - **University of Sydney**, Australia — Computer Architectures, Heuristics and Optimization *(1st semester 2025/2026)*
 
-**King's College School Soto de Viñuelas**, Madrid — High School Diploma (IGCSE, 2020) & IB Baccalaureate: 34/42 (Physics, Maths, Chemistry HL) *(2022)*
+**King's College School Soto de Viñuelas**, Madrid — High School Diploma (IGCSE, 2020) & IB Baccalaureate: 37/42 (Physics, Maths, Chemistry HL) *(2022)*
 
 ---
 
